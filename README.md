@@ -41,4 +41,20 @@ To get started with the LLM project, follow these steps:
 Hello
 conda env create -f environment.yml
 conda activate llm-training
+
+
+
+
+
+
+actually                                                                                                                                                   git 
+
+
+clone https://github.com/Ramacsv/super-duper-bassoon.git
+cd super-duper-bassoon
+conda env create -f environment.yml
+conda activate llm-training
+mkdir data
+echo "Training text..." > data/sample.txt
+python train.py
 python train.py
