@@ -34,3 +34,11 @@ To get started with the LLM project, follow these steps:
 - Explore the examples provided in the `examples` directory.
 - Review the model training documentation for custom model implementation.
 - Contribute to the project by raising issues or submitting pull requests.
+
+
+
+
+Hello
+conda env create -f environment.yml
+conda activate llm-training
+python train.py
