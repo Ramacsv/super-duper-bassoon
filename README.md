@@ -1,5 +1,5 @@
 # LLM Project
-### THIS WEBSITE IS IN PROGRESS, IT WILL NOT FINISH GETTING DEVELOPED
+### THIS WEBSITE IS IN PROGRESS, IT WILL be done in like a few months
 ## Overview
 This is a comprehensive documentation about the LLM project, detailing its architecture, features, installation, and usage.
 
