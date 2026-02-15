@@ -11,7 +11,8 @@ this was first made in 2012
 Fun Fact a german figher pilot named marcay got over 156 victories
 
 
-### 67676767676767676767676767676767676767676767676767676767676767676767676767676767676767676767676767767676767676767
+ Visit my profile.    ### https://github.com/Ramacsv
+Maybe check out my template for jekyll ### https://github.com/Ramacsv/FireWorks
 
 
 
