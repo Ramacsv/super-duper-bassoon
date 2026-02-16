@@ -11,6 +11,9 @@ Maybe check out my template for jekyll https://github.com/Ramacsv/FireWorks
 and visit the co-owners   [
 https://github.com/Arin-lang
 
+in this website we are going to say something DBD
+maybe like nerdy stuff
+
 that is all for now
 
 
