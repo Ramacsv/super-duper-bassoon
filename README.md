@@ -15,7 +15,7 @@ in this website we are going to say something DBD
 maybe like nerdy stuff
 
 that is all for now
-so if you want to reach out to us just contact on arin.ranade@icloud.com or ramacsv16@icloud.com
+so if you want to reach out to us just contact on arin.ranade@icloud.com or ramacsv16@icloud.com on messages or mail
 btw Vehan loves churros
 
 
