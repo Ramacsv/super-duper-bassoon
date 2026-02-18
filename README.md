@@ -15,7 +15,7 @@ in this website we are going to say something DBD
 maybe like nerdy stuff
 
 that is all for now
-
+so if you want to reach out to us just contact on arin.ranade@icloud.com of ramacsv16@icloud.com
 
 
 
